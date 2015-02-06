@@ -115,3 +115,5 @@ sin(2x)=2sin(x)<0x09>cos(x)
 cos^3(x)=(1/4)<0x09>cos(3x)+(3/4)cos(x)
 cos(x) =sin(x+<0xC4>/2) =sin(<0xC4>/2-x) =-cos(x+<0xC4>) =-cos(<0xC4>-x) =2cos<0x12>(x/2)-1
 sin(x) =cos(<0xC4>/2-x) =sin(<0xC4>-x) =-sin(x+<0xC4>) =-cos(x+<0xC4>/2) =2sin(x/2)cos(x/2)
+
+test 1
